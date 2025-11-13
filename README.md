@@ -1,2 +1,2 @@
 # algorithm-practice
-My algorithm practice by using java and python
+My algorithm practice by using java
